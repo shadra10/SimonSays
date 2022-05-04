@@ -1,0 +1,19 @@
+[{
+  "Author": "Shadra",
+  "Name": "Simon Says",
+  "InternalName": "SimonSays",
+  "AssemblyVersion": "2.15",
+  "Description": "Stolen from Tippy plugin for static lols.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/shadra10/SimonSays",
+  "Tags": [
+    "test"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/shadra10/SimonSays/blob/master/assets/icon.png",
+  "DownloadCount": 1,
+  "DownloadLinkInstall": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip",
+  "DownloadLinkTesting": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip",
+  "DownloadLinkUpdate": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip"
+}]
