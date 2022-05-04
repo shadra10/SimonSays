@@ -1,12 +1,19 @@
 [{
-  "Author": "Shadra",
-  "Name": "Simon",
-  "InternalName": "Says",
-  "AssemblyVersion": "1.2.4.0",
-  "Description": "tester",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/shadra10/SimonSays",
-  "DalamudApiLevel": 6,
-  "LoadPriority": 0,
-  "Punchline": "Simon, your new FFXIV virtual assistant."
-}]
+    "Author": "Shadra",
+    "Name": "Simon Says",
+    "InternalName": "Simon",
+    "AssemblyVersion": "1.2.4.0",
+    "Description": "test",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/shadra10/SimonSays",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Simon, your new FFXIV virtual assistant.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": "1650506046",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
+  }]
