@@ -14,7 +14,7 @@
     "IconUrl": "https://raw.githubusercontent.com/shadra10/SimonSays/master/assets/icon.png",
     "DownloadCount": 1,
     "LastUpdate": "1650506046",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
+    "DownloadLinkInstall": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/shadra10/SimonSays/archive/refs/tags/0.1.1.0.zip"
   }]
