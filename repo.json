@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Shadra",
   "Name": "Simon",
   "InternalName": "Says",
@@ -9,4 +9,4 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Simon, your new FFXIV virtual assistant."
-}
+}]
