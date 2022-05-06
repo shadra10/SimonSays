@@ -1,9 +1,7 @@
-﻿name: Tippy
-author: kalilistic
-punchline: Tippy, your new FFXIV virtual assistant.
+name: Simon
+author: Shadra
+punchline: Simon, your new FFXIV virtual Raid Leader.
 description: |-
-    Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.
-    
     Handcrafted by our finest code artisans with special AI, 
     he will analyze your playstyle to give you useful tips to get your GAMING to the next level.
     
@@ -12,5 +10,5 @@ description: |-
     * He can give tips about the job you're playing
     * He can report on your battle performance
     * He will respect your feelings
-repo_url: https://github.com/kalilistic/tippy
+repo_url: https://github.com/shadra10/SimonSays
 dalamud_api_level: 6
