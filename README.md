@@ -1,6 +1,5 @@
-# Tippy
+# Simon
 
-Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.
 
 Handcrafted by our finest code artisans with special AI, he will analyze your playstyle to give you useful tips to get your GAMING to the next level.
 
